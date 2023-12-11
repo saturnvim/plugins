@@ -7,4 +7,4 @@ Registry of ALL packages pre-configured to be added to your saturnvim
 
 ## Plugins
 
-- [vuki656/package-info.nvim](https://github.com/saturnvim/plugins/blob/main/docs.md)
+- [vuki656/package-info.nvim](https://github.com/saturnvim/plugins/blob/main/package-info/docs.md)
